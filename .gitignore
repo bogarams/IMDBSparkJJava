@@ -1,4 +1,7 @@
 .idea/
+data/name.basics.tsv/
+data/title.akas.tsv/
+data/title.ratings.tsv/
 target/
 pom.xml.tag
 pom.xml.releaseBackup
